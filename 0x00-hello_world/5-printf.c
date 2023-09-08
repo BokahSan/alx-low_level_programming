@@ -2,8 +2,8 @@
 
 
 /**
- * main displays "with proper grammar" with new line
- * return 0 then exit the program
+ * main - displays "with proper grammar" with new line
+ * Return: 0 then exit the program
  */
 int main(void)
 {
