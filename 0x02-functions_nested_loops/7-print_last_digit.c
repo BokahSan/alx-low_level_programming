@@ -13,7 +13,16 @@ int print_last_digit(int a)
 {
 	int b;
 
-	b = _abs(a) % 10;
-	_putchar(b + '0');
-	return (b);
+	if (a < 0)
+	{
+		b = -1 * (a % 10);
+		_putchar(b + '0');
+		return (b);
+	}
+	else
+	{
+		b = a % 10;
+		_putchar(b + '0');
+		return (b);
+	}
 }
