@@ -2,9 +2,9 @@
 
 /**
  * leet - Encode a string into 1337
- * 
+ *
  * @s: string
- * 
+ *
  * Return: string
  */
 char *leet(char *s)
@@ -18,7 +18,7 @@ char *leet(char *s)
 		k = 0;
 		for (j = 0; alpha[j] != '\0'; j++)
 		{
-			if (s[i] = alpha[j])
+			if (s[i] == alpha[j])
 			{
 				k = j;
 				s[i] = num[k];

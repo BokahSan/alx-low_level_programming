@@ -2,9 +2,9 @@
 
 /**
  * string_toupper - Function that reverse the lowerc to upperc
- * 
+ *
  * @a: Type int
- * 
+ *
  * Return: string a
  */
 char *string_toupper(char *a)

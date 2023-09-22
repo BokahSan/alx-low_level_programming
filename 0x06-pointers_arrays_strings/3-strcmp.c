@@ -5,7 +5,7 @@
  * _strcmp - Function that compares two strings.
  *
  * @s1: type str
- * 
+ *
  * @s2: type str
  * Return: Always 0.
  */

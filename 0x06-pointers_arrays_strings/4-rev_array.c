@@ -2,10 +2,10 @@
 
 /**
  * reverse_array - Function that reverse the content of an array of int
- * 
+ *
  * @a: Type int
  * @n: Type int
- * 
+ *
  * Return: void.
  */
 void reverse_array(int *a, int n)

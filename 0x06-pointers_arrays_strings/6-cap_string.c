@@ -3,9 +3,9 @@
 
 /**
  * cap_string - capitalizes character after separator
- * 
+ *
  * @str: string to capitalize
- * 
+ *
  * Return: str;
  */
 char *cap_string(char *str)
