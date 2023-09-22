@@ -6,7 +6,7 @@
  * @dest: type char str
  * @src: type char str
  * @n: number of elements to concatenate in
- * 
+ *
  * Return: pointer to resulting dest
  */
 
