@@ -3,11 +3,11 @@
 
 /**
  * *_strncpy - Function that copies a string.
- * 
+ *
  * @dest: string
  * @src: string
  * @n: number of chars to copy over
- * 
+ *
  * Return: result string dest.
  */
 char *_strncpy(char *dest, char *src, int n)
